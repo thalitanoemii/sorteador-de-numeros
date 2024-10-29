@@ -19,11 +19,16 @@ O aplicativo permite que você:
 3. Clique no botão **Sortear** para ver os números sorteados.
 4. Se desejar realizar um novo sorteio, clique em **Reiniciar**.
 
+# Sorteador de Números
+
+Este projeto é um sorteador de números, desenvolvido como parte do curso **Lógica de Programação: Praticando com Desafios** da Alura. O objetivo do projeto é permitir que os usuários sorteiem números aleatórios de forma simples e prática.
+
 ## Estrutura do Projeto
-sorteador-numeros/
-  - index.html         # Página HTML principal
-  - style.css          # Estilos CSS do projeto
-  - app.js             # Código JavaScript do sorteador
+
+- index.html         # Página HTML principal
+- style.css          # Estilos CSS do projeto
+- app.js             # Código JavaScript do sorteador
+
 
 
 ## Tecnologias Usadas
